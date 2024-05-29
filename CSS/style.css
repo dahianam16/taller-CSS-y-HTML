@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: azure;
+}
+h1{
+    color: blue;
+    text-align: center;
+}
+
+span{
+    background-color: yellow;
+}
+
+strong{
+    color:red;
+}
+
+em{
+    background-color:cadetblue;
+}
+
+.boton{
+background-color:palevioletred;
+padding: 10px 20px;
+border-radius: 15px;
+}
+
+.boton:hover{
+background-color: mediumorchid;
+}
+
+.link{
+    text-align: left;
+    text-transform: uppercase;
+}
+.link p a {
+text-decoration: none;
+}
